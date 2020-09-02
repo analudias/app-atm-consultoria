@@ -1,4 +1,4 @@
-package com.meusprojetos.atmconsultoria.contato;
+package com.meusprojetos.atmconsultoria.ui.contato;
 
 
 import android.os.Bundle;

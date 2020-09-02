@@ -1,4 +1,4 @@
-package com.meusprojetos.atmconsultoria.servicos;
+package com.meusprojetos.atmconsultoria.ui.servicos;
 
 
 import android.os.Bundle;

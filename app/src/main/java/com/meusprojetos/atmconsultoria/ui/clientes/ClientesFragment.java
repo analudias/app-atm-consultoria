@@ -1,4 +1,4 @@
-package com.meusprojetos.atmconsultoria.sobre;
+package com.meusprojetos.atmconsultoria.ui.clientes;
 
 
 import android.os.Bundle;
@@ -14,10 +14,10 @@ import com.meusprojetos.atmconsultoria.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class SobreFragment extends Fragment {
+public class ClientesFragment extends Fragment {
 
 
-    public SobreFragment() {
+    public ClientesFragment() {
         // Required empty public constructor
     }
 
@@ -26,7 +26,7 @@ public class SobreFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_sobre, container, false);
+        return inflater.inflate(R.layout.fragment_clientes, container, false);
     }
 
 }
